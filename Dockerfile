@@ -1,4 +1,4 @@
-FROM golang:1.13
+FROM golang:bullseye
 
 ENV CGO_ENABLED 0
 
