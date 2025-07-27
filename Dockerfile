@@ -1,4 +1,4 @@
-FROM golang:1.21
+FROM golang:1.25rc2
 
 ENV CGO_ENABLED 0
 
